@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/me/static/css/main.a22f5c3d.css",
-    "main.js": "/me/static/js/main.552d242a.js",
+    "main.js": "/me/static/js/main.b68e7b37.js",
     "static/js/787.93800492.chunk.js": "/me/static/js/787.93800492.chunk.js",
     "static/media/profile.webp": "/me/static/media/profile.ff55b29a291a6ffe76b4.webp",
     "static/media/analog-clock.png": "/me/static/media/analog-clock.a5b4362deea3e7ac6a61.png",
@@ -11,11 +11,11 @@
     "static/media/digital.png": "/me/static/media/digital.109b4237a51ff6ca85d6.png",
     "index.html": "/me/index.html",
     "main.a22f5c3d.css.map": "/me/static/css/main.a22f5c3d.css.map",
-    "main.552d242a.js.map": "/me/static/js/main.552d242a.js.map",
+    "main.b68e7b37.js.map": "/me/static/js/main.b68e7b37.js.map",
     "787.93800492.chunk.js.map": "/me/static/js/787.93800492.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a22f5c3d.css",
-    "static/js/main.552d242a.js"
+    "static/js/main.b68e7b37.js"
   ]
 }
